@@ -9,7 +9,7 @@ This version was built, debugged, and refined collaboratively **with my friends 
 ## 📁 Repository Structure
 
 ```text
-my-repository/
+TP_MPI/
 ├── README.md
 ├── semester1/
 │   ├── tp1_partie1.c
